@@ -15,6 +15,9 @@ target/
 project.lock.json
 _references.js
 
+# Rider
+.idea
+
 # Build results
 
 [Dd]ebug/
